@@ -6,7 +6,10 @@ Yannic Holländer
 ## Introduction
 Europe's forests are dying at an unprecedented pace.
 
-Over the last few years, recurring draught periods have weakened the natural defence systems of coniferous trees like spruces, pines and larches and contributed to the rapid reproduction of bark beetles. As a direct result, large parts of European forests have vanished since 2018. Epicentre of the German bark beetle epidemic is the Free State of Saxony, which is currently facing the greatest forest dieback since the beginning of kept forestry records. In this region alone, 86 million cubic metres of damaged wood were reported over the last three years. Half of this amount is directly attributed to the spruce bark beetle by itself.
+Over the last few years, recurring draught periods have weakened the natural defence systems of coniferous trees like spruces, pines and larches and contributed to the rapid reproduction of bark beetles. As a direct result, large parts of European forests have vanished since 2018. Epicentre of the German bark beetle epidemic is the Free State of Saxony, which is currently facing the greatest forest dieback since the beginning of kept forestry records. In this region alone, 9.1 million cubic metres of damaged wood were reported over the last three years. Half of this amount is directly attributed to the spruce bark beetle by itself.
+
+![teaser_animation](teaser_animation.gif) 
+
 
 **Introduction Sources:**  
 [1] [Reuters: "Climate change to blame as bark beetles ravage central Europe's forests"](https://www.reuters.com/article/us-centraleurope-environment-barkbeetle-idUSKCN1S21LA)  
