@@ -31,11 +31,16 @@ The various data sources were successfully combined into a single data set. Corr
 In consultation with *Sachsenforst*, Jupyter Notebooks were chosen as the preferred method of documenting and supplying all project code. The following files are found in this repository:
 
 **1_Data_Aggregation.ipynb** - This notebook encompasses the merging of the four main data sources. A single dataset containing all relevant information on the bark beetle infestation in Saxony is created. Subsequent notebooks use this dataset for data analysis and model training.   
+
 **2_EDA.ipynb** - In this notebook the Exploratory Data Analysis (EDA) takes place. Describing relationships between different (target/explanatory) variables enables a deeper understanding of the underlying processes regarding infestation development and sets expectations for feature selection as well as model performance.  
+
 **3_Model_Training.ipynb** - In this notebook sets of prediction models for the amount of infested wood are fitted. The models make predictions for one timeframe, one forestry district and for one ownership group at a time (analogous to the dataset structure). Mutiple approaches are compared, their models evaluated and the most appropriate model chosen for deployment.
+
 **4_Model_Deployment.ipynb** - With the help of this notebook the model can be used to forecast the amount of infested wood based on multiple user-defined scenarios. 
 **forestry_districts.png** - A map of the current forestry districts and counties within Saxony. Serves as a guide for the reader to be able to follow along specific sections of the EDA. Embedded in '2_EDA.ipynb'.
+
 **model.pkl** - The final regression model as a pickle file. Written as part of '3_Model_Training.ipynb'.
+
 **teaser_animation.gif** - Teaser animation used in this readme. 
 
 
